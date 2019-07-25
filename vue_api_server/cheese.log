@@ -1,0 +1,384 @@
+[2019-07-17T09:31:58.367] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T09:31:58.369] [DEBUG] cheese - admin
+[2019-07-17T09:31:58.387] [DEBUG] cheese - null
+[2019-07-17T09:31:58.388] [DEBUG] cheese - null
+[2019-07-17T09:35:25.355] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T09:35:25.355] [DEBUG] cheese - admin
+[2019-07-17T09:35:25.361] [DEBUG] cheese - null
+[2019-07-17T09:35:25.361] [DEBUG] cheese - null
+[2019-07-17T09:39:19.446] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T09:39:19.447] [DEBUG] cheese - admin
+[2019-07-17T09:39:19.450] [DEBUG] cheese - null
+[2019-07-17T09:39:19.451] [DEBUG] cheese - null
+[2019-07-17T09:39:31.688] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T09:39:31.688] [DEBUG] cheese - admin
+[2019-07-17T09:39:31.691] [DEBUG] cheese - null
+[2019-07-17T09:39:31.691] [DEBUG] cheese - null
+[2019-07-17T09:40:34.902] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T09:40:34.902] [DEBUG] cheese - admin
+[2019-07-17T09:44:54.566] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T09:44:54.566] [DEBUG] cheese - admin
+[2019-07-17T09:44:54.587] [DEBUG] cheese - null
+[2019-07-17T09:44:54.587] [DEBUG] cheese - null
+[2019-07-17T09:44:54.698] [DEBUG] cheese - login => username:admin111,password:123456
+[2019-07-17T09:44:54.698] [DEBUG] cheese - admin111
+[2019-07-17T09:44:54.703] [DEBUG] cheese - login => username:admin111,password:123456
+[2019-07-17T09:44:54.703] [DEBUG] cheese - admin111
+[2019-07-17T09:44:54.707] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T09:44:54.707] [DEBUG] cheese - admin
+[2019-07-17T09:44:54.710] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T09:44:54.710] [DEBUG] cheese - admin
+[2019-07-17T09:44:54.722] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T09:44:54.722] [DEBUG] cheese - admin
+[2019-07-17T09:44:54.725] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T09:44:54.726] [DEBUG] cheese - admin
+[2019-07-17T09:44:54.737] [DEBUG] cheese - null
+[2019-07-17T09:57:54.124] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T09:57:54.126] [DEBUG] cheese - admin
+[2019-07-17T09:57:54.142] [DEBUG] cheese - null
+[2019-07-17T09:57:54.143] [DEBUG] cheese - null
+[2019-07-17T10:05:27.884] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T10:05:27.884] [DEBUG] cheese - admin
+[2019-07-17T10:09:08.049] [DEBUG] cheese - null
+[2019-07-17T10:09:08.049] [DEBUG] cheese - null
+[2019-07-17T10:09:08.168] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T10:09:08.168] [DEBUG] cheese - admin
+[2019-07-17T10:09:08.171] [DEBUG] cheese - null
+[2019-07-17T10:10:03.660] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T10:10:03.665] [DEBUG] cheese - admin
+[2019-07-17T10:10:03.689] [DEBUG] cheese - null
+[2019-07-17T10:10:03.691] [DEBUG] cheese - null
+[2019-07-17T10:10:43.224] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T10:10:43.224] [DEBUG] cheese - admin
+[2019-07-17T10:10:43.236] [DEBUG] cheese - null
+[2019-07-17T10:10:43.236] [DEBUG] cheese - null
+[2019-07-17T10:10:43.696] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T10:10:43.696] [DEBUG] cheese - admin
+[2019-07-17T10:10:43.701] [DEBUG] cheese - null
+[2019-07-17T10:10:43.701] [DEBUG] cheese - null
+[2019-07-17T10:10:52.949] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T10:10:52.949] [DEBUG] cheese - admin
+[2019-07-17T10:10:52.955] [DEBUG] cheese - null
+[2019-07-17T10:10:52.955] [DEBUG] cheese - null
+[2019-07-17T10:40:23.038] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T10:40:23.042] [DEBUG] cheese - admin
+[2019-07-17T10:40:23.063] [DEBUG] cheese - null
+[2019-07-17T10:40:23.064] [DEBUG] cheese - null
+[2019-07-17T10:40:29.665] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T10:40:29.665] [DEBUG] cheese - admin
+[2019-07-17T10:40:29.671] [DEBUG] cheese - null
+[2019-07-17T10:40:29.671] [DEBUG] cheese - null
+[2019-07-17T10:43:41.443] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T10:43:41.443] [DEBUG] cheese - admin
+[2019-07-17T10:43:41.447] [DEBUG] cheese - null
+[2019-07-17T10:43:41.448] [DEBUG] cheese - null
+[2019-07-17T11:12:03.123] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T11:12:03.124] [DEBUG] cheese - admin
+[2019-07-17T11:12:03.130] [DEBUG] cheese - null
+[2019-07-17T11:12:03.130] [DEBUG] cheese - null
+[2019-07-17T11:13:32.290] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T11:13:32.290] [DEBUG] cheese - admin
+[2019-07-17T11:13:32.295] [DEBUG] cheese - null
+[2019-07-17T11:13:32.296] [DEBUG] cheese - null
+[2019-07-17T11:16:46.214] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T11:16:46.214] [DEBUG] cheese - admin
+[2019-07-17T11:16:46.216] [DEBUG] cheese - null
+[2019-07-17T11:16:46.216] [DEBUG] cheese - null
+[2019-07-17T11:18:39.904] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T11:18:39.904] [DEBUG] cheese - admin
+[2019-07-17T11:18:39.907] [DEBUG] cheese - null
+[2019-07-17T11:18:39.907] [DEBUG] cheese - null
+[2019-07-17T11:37:07.391] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T11:37:07.393] [DEBUG] cheese - admin
+[2019-07-17T11:37:07.405] [DEBUG] cheese - null
+[2019-07-17T11:37:07.405] [DEBUG] cheese - null
+[2019-07-17T11:37:19.108] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T11:37:19.108] [DEBUG] cheese - admin
+[2019-07-17T11:37:19.110] [DEBUG] cheese - null
+[2019-07-17T11:37:19.110] [DEBUG] cheese - null
+[2019-07-17T11:38:49.202] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T11:38:49.202] [DEBUG] cheese - admin
+[2019-07-17T11:38:49.203] [DEBUG] cheese - null
+[2019-07-17T11:38:49.203] [DEBUG] cheese - null
+[2019-07-17T11:39:18.461] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T11:39:18.461] [DEBUG] cheese - admin
+[2019-07-17T11:39:18.463] [DEBUG] cheese - null
+[2019-07-17T11:39:18.463] [DEBUG] cheese - null
+[2019-07-17T11:42:44.198] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T11:42:44.198] [DEBUG] cheese - admin
+[2019-07-17T11:42:44.200] [DEBUG] cheese - null
+[2019-07-17T11:42:44.200] [DEBUG] cheese - null
+[2019-07-17T11:46:19.558] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T11:46:19.558] [DEBUG] cheese - admin
+[2019-07-17T11:46:19.561] [DEBUG] cheese - null
+[2019-07-17T11:46:19.561] [DEBUG] cheese - null
+[2019-07-17T11:55:48.892] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T11:55:48.893] [DEBUG] cheese - admin
+[2019-07-17T11:55:48.898] [DEBUG] cheese - null
+[2019-07-17T11:55:48.898] [DEBUG] cheese - null
+[2019-07-17T11:55:58.217] [DEBUG] cheese - login => username:admin1111,password:123456
+[2019-07-17T11:55:58.217] [DEBUG] cheese - admin1111
+[2019-07-17T11:55:58.220] [DEBUG] cheese - null
+[2019-07-17T11:55:58.220] [DEBUG] cheese - null
+[2019-07-17T11:56:00.440] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T11:56:00.440] [DEBUG] cheese - admin
+[2019-07-17T11:56:00.442] [DEBUG] cheese - null
+[2019-07-17T11:56:00.442] [DEBUG] cheese - null
+[2019-07-17T11:56:00.890] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T11:56:00.890] [DEBUG] cheese - admin
+[2019-07-17T11:56:00.892] [DEBUG] cheese - null
+[2019-07-17T11:56:00.892] [DEBUG] cheese - null
+[2019-07-17T11:56:07.839] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T11:56:07.839] [DEBUG] cheese - admin
+[2019-07-17T11:56:07.841] [DEBUG] cheese - null
+[2019-07-17T11:56:07.841] [DEBUG] cheese - null
+[2019-07-17T12:22:43.386] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T12:22:43.387] [DEBUG] cheese - admin
+[2019-07-17T12:22:43.394] [DEBUG] cheese - null
+[2019-07-17T12:22:43.394] [DEBUG] cheese - null
+[2019-07-17T12:23:18.958] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T12:23:18.958] [DEBUG] cheese - admin
+[2019-07-17T12:23:18.961] [DEBUG] cheese - null
+[2019-07-17T12:23:18.961] [DEBUG] cheese - null
+[2019-07-17T12:23:19.218] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T12:23:19.219] [DEBUG] cheese - admin
+[2019-07-17T12:23:19.220] [DEBUG] cheese - null
+[2019-07-17T12:23:19.220] [DEBUG] cheese - null
+[2019-07-17T12:23:19.457] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T12:23:19.457] [DEBUG] cheese - admin
+[2019-07-17T12:23:19.459] [DEBUG] cheese - null
+[2019-07-17T12:23:19.459] [DEBUG] cheese - null
+[2019-07-17T12:23:19.670] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T12:23:19.670] [DEBUG] cheese - admin
+[2019-07-17T12:23:19.672] [DEBUG] cheese - null
+[2019-07-17T12:23:19.672] [DEBUG] cheese - null
+[2019-07-17T12:24:09.516] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T12:24:09.516] [DEBUG] cheese - admin
+[2019-07-17T12:24:09.518] [DEBUG] cheese - null
+[2019-07-17T12:24:09.518] [DEBUG] cheese - null
+[2019-07-17T12:24:17.260] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T12:24:17.260] [DEBUG] cheese - admin
+[2019-07-17T12:24:17.262] [DEBUG] cheese - null
+[2019-07-17T12:24:17.262] [DEBUG] cheese - null
+[2019-07-17T15:37:04.499] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T15:37:04.500] [DEBUG] cheese - admin
+[2019-07-17T15:37:04.535] [DEBUG] cheese - null
+[2019-07-17T15:37:04.535] [DEBUG] cheese - null
+[2019-07-17T15:47:35.165] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T15:47:35.165] [DEBUG] cheese - admin
+[2019-07-17T15:47:35.168] [DEBUG] cheese - null
+[2019-07-17T15:47:35.168] [DEBUG] cheese - null
+[2019-07-17T16:00:54.779] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T16:00:54.779] [DEBUG] cheese - admin
+[2019-07-17T16:00:54.781] [DEBUG] cheese - null
+[2019-07-17T16:00:54.781] [DEBUG] cheese - null
+[2019-07-17T16:01:36.200] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T16:01:36.200] [DEBUG] cheese - admin
+[2019-07-17T16:01:36.202] [DEBUG] cheese - null
+[2019-07-17T16:01:36.202] [DEBUG] cheese - null
+[2019-07-17T16:17:03.936] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T16:17:03.937] [DEBUG] cheese - admin
+[2019-07-17T16:17:03.943] [DEBUG] cheese - null
+[2019-07-17T16:17:03.943] [DEBUG] cheese - null
+[2019-07-17T17:18:02.541] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T17:18:02.542] [DEBUG] cheese - admin
+[2019-07-17T17:18:02.545] [DEBUG] cheese - null
+[2019-07-17T17:18:02.545] [DEBUG] cheese - null
+[2019-07-17T20:49:52.255] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T20:49:52.256] [DEBUG] cheese - admin
+[2019-07-17T20:49:52.260] [DEBUG] cheese - null
+[2019-07-17T20:49:52.260] [DEBUG] cheese - null
+[2019-07-17T20:52:50.472] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-17T20:52:50.472] [DEBUG] cheese - admin
+[2019-07-17T20:52:50.475] [DEBUG] cheese - null
+[2019-07-17T20:52:50.475] [DEBUG] cheese - null
+[2019-07-19T10:00:17.752] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-19T10:00:17.757] [DEBUG] cheese - admin
+[2019-07-19T10:00:17.792] [DEBUG] cheese - null
+[2019-07-19T10:00:17.792] [DEBUG] cheese - null
+[2019-07-19T10:00:18.291] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-19T10:00:18.291] [DEBUG] cheese - admin
+[2019-07-19T10:00:18.293] [DEBUG] cheese - null
+[2019-07-19T10:00:18.293] [DEBUG] cheese - null
+[2019-07-19T10:00:18.425] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-19T10:00:18.425] [DEBUG] cheese - admin
+[2019-07-19T10:00:18.431] [DEBUG] cheese - null
+[2019-07-19T10:00:18.431] [DEBUG] cheese - null
+[2019-07-19T10:00:18.574] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-19T10:00:18.575] [DEBUG] cheese - admin
+[2019-07-19T10:00:18.578] [DEBUG] cheese - null
+[2019-07-19T10:00:18.578] [DEBUG] cheese - null
+[2019-07-19T10:04:00.933] [DEBUG] cheese - login => username:admin,password:1234562
+[2019-07-19T10:04:00.933] [DEBUG] cheese - admin
+[2019-07-19T10:04:00.940] [DEBUG] cheese - null
+[2019-07-19T10:04:00.941] [DEBUG] cheese - null
+[2019-07-19T10:04:01.787] [DEBUG] cheese - login => username:admin,password:1234562
+[2019-07-19T10:04:01.787] [DEBUG] cheese - admin
+[2019-07-19T10:04:01.789] [DEBUG] cheese - null
+[2019-07-19T10:04:01.789] [DEBUG] cheese - null
+[2019-07-19T10:05:48.640] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-19T10:05:48.640] [DEBUG] cheese - admin
+[2019-07-19T10:05:48.642] [DEBUG] cheese - null
+[2019-07-19T10:05:48.642] [DEBUG] cheese - null
+[2019-07-19T10:05:58.077] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-19T10:05:58.078] [DEBUG] cheese - admin
+[2019-07-19T10:05:58.079] [DEBUG] cheese - null
+[2019-07-19T10:05:58.079] [DEBUG] cheese - null
+[2019-07-19T10:10:56.261] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-19T10:10:56.261] [DEBUG] cheese - admin
+[2019-07-19T10:10:56.265] [DEBUG] cheese - null
+[2019-07-19T10:10:56.265] [DEBUG] cheese - null
+[2019-07-19T10:12:54.877] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-19T10:12:54.878] [DEBUG] cheese - admin
+[2019-07-19T10:12:54.884] [DEBUG] cheese - null
+[2019-07-19T10:12:54.884] [DEBUG] cheese - null
+[2019-07-19T10:14:47.024] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-19T10:14:47.025] [DEBUG] cheese - admin
+[2019-07-19T10:14:47.026] [DEBUG] cheese - null
+[2019-07-19T10:14:47.026] [DEBUG] cheese - null
+[2019-07-19T10:32:38.398] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-19T10:32:38.399] [DEBUG] cheese - admin
+[2019-07-19T10:32:38.408] [DEBUG] cheese - null
+[2019-07-19T10:32:38.409] [DEBUG] cheese - null
+[2019-07-19T10:41:22.568] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-19T10:41:22.568] [DEBUG] cheese - admin
+[2019-07-19T10:41:22.570] [DEBUG] cheese - null
+[2019-07-19T10:41:22.570] [DEBUG] cheese - null
+[2019-07-19T10:47:04.415] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-19T10:47:04.416] [DEBUG] cheese - admin
+[2019-07-19T10:47:04.421] [DEBUG] cheese - null
+[2019-07-19T10:47:04.421] [DEBUG] cheese - null
+[2019-07-19T10:55:24.057] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-19T10:55:24.057] [DEBUG] cheese - admin
+[2019-07-19T10:55:24.059] [DEBUG] cheese - null
+[2019-07-19T10:55:24.059] [DEBUG] cheese - null
+[2019-07-19T11:33:32.139] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-19T11:33:32.140] [DEBUG] cheese - admin
+[2019-07-19T11:33:32.143] [DEBUG] cheese - null
+[2019-07-19T11:33:32.143] [DEBUG] cheese - null
+[2019-07-19T12:17:07.355] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-19T12:17:07.356] [DEBUG] cheese - admin
+[2019-07-19T12:17:07.359] [DEBUG] cheese - null
+[2019-07-19T12:17:07.359] [DEBUG] cheese - null
+[2019-07-19T12:23:37.594] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-19T12:23:37.594] [DEBUG] cheese - admin
+[2019-07-19T12:23:37.596] [DEBUG] cheese - null
+[2019-07-19T12:23:37.596] [DEBUG] cheese - null
+[2019-07-19T17:04:56.106] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-19T17:04:56.107] [DEBUG] cheese - admin
+[2019-07-19T17:04:56.116] [DEBUG] cheese - null
+[2019-07-19T17:04:56.116] [DEBUG] cheese - null
+[2019-07-20T09:03:16.360] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-20T09:03:16.362] [DEBUG] cheese - admin
+[2019-07-20T09:03:16.389] [DEBUG] cheese - null
+[2019-07-20T09:03:16.389] [DEBUG] cheese - null
+[2019-07-20T09:26:32.177] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-20T09:26:32.178] [DEBUG] cheese - admin
+[2019-07-20T09:26:32.184] [DEBUG] cheese - null
+[2019-07-20T09:26:32.184] [DEBUG] cheese - null
+[2019-07-20T09:27:29.586] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-20T09:27:29.587] [DEBUG] cheese - admin
+[2019-07-20T09:27:29.589] [DEBUG] cheese - null
+[2019-07-20T09:27:29.589] [DEBUG] cheese - null
+[2019-07-20T09:32:34.881] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-20T09:32:34.882] [DEBUG] cheese - admin
+[2019-07-20T09:32:34.886] [DEBUG] cheese - null
+[2019-07-20T09:32:34.887] [DEBUG] cheese - null
+[2019-07-20T11:34:03.064] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-20T11:34:03.066] [DEBUG] cheese - admin
+[2019-07-20T11:34:03.068] [DEBUG] cheese - null
+[2019-07-20T11:34:03.068] [DEBUG] cheese - null
+[2019-07-20T11:41:24.810] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-20T11:41:24.810] [DEBUG] cheese - admin
+[2019-07-20T11:41:24.817] [DEBUG] cheese - null
+[2019-07-20T11:41:24.817] [DEBUG] cheese - null
+[2019-07-20T14:41:53.065] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-20T14:41:53.066] [DEBUG] cheese - admin
+[2019-07-20T14:41:53.069] [DEBUG] cheese - null
+[2019-07-20T14:41:53.072] [DEBUG] cheese - null
+[2019-07-20T15:23:57.258] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-20T15:23:57.259] [DEBUG] cheese - admin
+[2019-07-20T15:23:57.262] [DEBUG] cheese - null
+[2019-07-20T15:23:57.262] [DEBUG] cheese - null
+[2019-07-20T20:59:37.820] [DEBUG] cheese - null
+[2019-07-22T09:01:18.971] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-22T09:01:18.980] [DEBUG] cheese - admin
+[2019-07-22T09:01:19.002] [DEBUG] cheese - null
+[2019-07-22T09:01:19.002] [DEBUG] cheese - null
+[2019-07-22T09:29:31.731] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-22T09:29:31.733] [DEBUG] cheese - admin
+[2019-07-22T09:29:31.742] [DEBUG] cheese - null
+[2019-07-22T09:29:31.742] [DEBUG] cheese - null
+[2019-07-22T10:30:24.262] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-22T10:30:24.263] [DEBUG] cheese - admin
+[2019-07-22T10:30:24.270] [DEBUG] cheese - null
+[2019-07-22T10:30:24.270] [DEBUG] cheese - null
+[2019-07-23T22:05:05.615] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-23T22:05:05.625] [DEBUG] cheese - admin
+[2019-07-23T22:05:05.656] [DEBUG] cheese - { Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+    --------------------
+    at Protocol._enqueue (/Users/macbookproxiaokai/Downloads/Desktop/vue_api_server/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/macbookproxiaokai/Downloads/Desktop/vue_api_server/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/macbookproxiaokai/Downloads/Desktop/vue_api_server/node_modules/mysql/lib/Connection.js:119:18)
+    at Pool.getConnection (/Users/macbookproxiaokai/Downloads/Desktop/vue_api_server/node_modules/mysql/lib/Pool.js:48:16)
+    at Driver.poolQuery (/Users/macbookproxiaokai/Downloads/Desktop/vue_api_server/node_modules/orm/lib/Drivers/DML/mysql.js:226:16)
+    at Driver.execSimpleQuery (/Users/macbookproxiaokai/Downloads/Desktop/vue_api_server/node_modules/orm/lib/Drivers/DML/mysql.js:101:10)
+    at Driver.find (/Users/macbookproxiaokai/Downloads/Desktop/vue_api_server/node_modules/orm/lib/Drivers/DML/mysql.js:145:8)
+    at chainRun (/Users/macbookproxiaokai/Downloads/Desktop/vue_api_server/node_modules/orm/lib/ChainFind.js:35:17)
+    at Object.run (/Users/macbookproxiaokai/Downloads/Desktop/vue_api_server/node_modules/orm/lib/ChainFind.js:224:7)
+    at Function.Model.model.find (/Users/macbookproxiaokai/Downloads/Desktop/vue_api_server/node_modules/orm/lib/Model.js:441:13)
+    at Function.Model.model.one (/Users/macbookproxiaokai/Downloads/Desktop/vue_api_server/node_modules/orm/lib/Model.js:476:22)
+    at Object.module.exports.findOne (/Users/macbookproxiaokai/Downloads/Desktop/vue_api_server/dao/DAO.js:134:8)
+    at Object.module.exports.findOne (/Users/macbookproxiaokai/Downloads/Desktop/vue_api_server/dao/ManagerDAO.js:35:12)
+    at module.exports.login (/Users/macbookproxiaokai/Downloads/Desktop/vue_api_server/services/ManagerService.js:218:14)
+    at Strategy._verify (/Users/macbookproxiaokai/Downloads/Desktop/vue_api_server/modules/passport.js:25:4)
+    at Strategy.authenticate (/Users/macbookproxiaokai/Downloads/Desktop/vue_api_server/node_modules/passport-local/lib/strategy.js:90:12)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3306,
+  fatal: true }
+[2019-07-23T22:05:05.685] [DEBUG] cheese - 查询失败
+[2019-07-23T22:06:21.026] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-23T22:06:21.026] [DEBUG] cheese - admin
+[2019-07-23T22:06:21.058] [DEBUG] cheese - null
+[2019-07-23T22:06:21.058] [DEBUG] cheese - null
+[2019-07-23T22:13:02.980] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-23T22:13:02.981] [DEBUG] cheese - admin
+[2019-07-23T22:13:02.990] [DEBUG] cheese - null
+[2019-07-23T22:13:02.990] [DEBUG] cheese - null
+[2019-07-23T23:20:12.387] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-23T23:20:12.387] [DEBUG] cheese - admin
+[2019-07-23T23:20:12.390] [DEBUG] cheese - null
+[2019-07-23T23:20:12.390] [DEBUG] cheese - null
+[2019-07-24T09:17:55.732] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-24T09:17:55.735] [DEBUG] cheese - admin
+[2019-07-24T09:17:55.799] [DEBUG] cheese - null
+[2019-07-24T09:17:55.799] [DEBUG] cheese - null
+[2019-07-24T10:07:47.764] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-24T10:07:47.764] [DEBUG] cheese - admin
+[2019-07-24T10:07:47.767] [DEBUG] cheese - null
+[2019-07-24T10:07:47.767] [DEBUG] cheese - null
+[2019-07-24T14:32:31.698] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-24T14:32:31.699] [DEBUG] cheese - admin
+[2019-07-24T14:32:31.713] [DEBUG] cheese - null
+[2019-07-24T14:32:31.713] [DEBUG] cheese - null
+[2019-07-24T14:33:07.518] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-24T14:33:07.518] [DEBUG] cheese - admin
+[2019-07-24T14:33:07.521] [DEBUG] cheese - null
+[2019-07-24T14:33:07.521] [DEBUG] cheese - null
+[2019-07-24T23:27:09.859] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-24T23:27:09.860] [DEBUG] cheese - admin
+[2019-07-24T23:27:09.868] [DEBUG] cheese - null
+[2019-07-24T23:27:09.868] [DEBUG] cheese - null
+[2019-07-25T10:19:15.911] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-25T10:19:15.912] [DEBUG] cheese - admin
+[2019-07-25T10:19:15.922] [DEBUG] cheese - null
+[2019-07-25T10:19:15.923] [DEBUG] cheese - null
+[2019-07-25T10:52:18.324] [DEBUG] cheese - login => username:admin,password:123456
+[2019-07-25T10:52:18.325] [DEBUG] cheese - admin
+[2019-07-25T10:52:18.335] [DEBUG] cheese - null
+[2019-07-25T10:52:18.335] [DEBUG] cheese - null
+[2019-07-25T14:41:22.620] [DEBUG] cheese - null
